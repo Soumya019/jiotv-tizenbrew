@@ -5,7 +5,7 @@
   var W = window;
   var D = document;
   if (W.__TB_JIOTV__) return;
-  W.__TB_JIOTV__ = "2.0.0";
+  W.__TB_JIOTV__ = "2.1.0";
 
   /* ---------------- diagnostics overlay ---------------- */
   var _lines = 0;
@@ -388,7 +388,7 @@
   /* ---------------- injected marker ---------------- */
   try {
     var badge = D.createElement("div");
-    badge.textContent = "TizenBrew polyfills 2.0";
+    badge.textContent = "TizenBrew polyfills 2.1";
     badge.style.cssText =
       "position:fixed;right:14px;top:14px;z-index:2147483647;background:rgba(20,120,60,.85);" +
       "color:#fff;font:13px/1 sans-serif;padding:6px 9px;border-radius:4px;opacity:.9;pointer-events:none;";

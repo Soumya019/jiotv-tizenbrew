@@ -1,11 +1,10 @@
 {
   "name": "jiotv-tizenbrew",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "JioTV for Samsung Tizen TVs with legacy-browser polyfills and on-screen diagnostics",
   "packageType": "mods",
   "appName": "JioTV",
   "websiteURL": "https://www.jiotv.com/",
   "main": "main.js",
-  "evaluateScriptOnDocumentStart": true,
   "keys": []
 }
