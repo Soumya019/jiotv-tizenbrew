@@ -1,0 +1,9 @@
+{
+  "name": "jiotv-tizenbrew",
+  "version": "1.0.0",
+  "description": "JioTV full-screen launcher for Samsung Tizen TVs (TizenBrew module)",
+  "packageType": "app",
+  "appName": "JioTV",
+  "appPath": "index.html",
+  "keys": []
+}
