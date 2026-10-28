@@ -1,10 +1,9 @@
 {
   "name": "jiotv-tizenbrew",
-  "version": "2.1.0",
-  "description": "JioTV for Samsung Tizen TVs with legacy-browser polyfills and on-screen diagnostics",
-  "packageType": "mods",
+  "version": "1.2.0",
+  "description": "Remote-friendly JioTV web launcher for Samsung Tizen TVs through TizenBrew",
+  "packageType": "app",
   "appName": "JioTV",
-  "websiteURL": "https://www.jiotv.com/",
-  "main": "main.js",
+  "appPath": "index.html",
   "keys": []
 }
